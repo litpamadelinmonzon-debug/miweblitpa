@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #e95faf;
+    margin: 20px;
+}
+
+/* Selector de clase */
+.titulo-principal {
+    color: #d85ab2;
+    text-align: center;
+}
+
+.parrafo-destacado {
+    font-size: 18px;
+    font-weight: bold;
+    color: #da1a83;
+}
+
+/* Selector de ID */
+#mensaje-especial {
+    background-color: #fff3cd;
+    border: 1px solid #ffe8a1;
+    padding: 10px;
+}
